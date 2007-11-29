@@ -17,8 +17,6 @@ Url: http://spacepants.org/src/pymad/
 %description
 pymad - a Python wrapper for the MPEG Audio Decoder library
 
-MAD is available at http://www.mars.org/home/rob/proj/mpeg/
-
 Access this module via "import mad" or "from mad import *".  To decode
 an mp3 stream, you'll want to create a MadFile object and read data from
 that.  You can then write the data to a sound device.  See the example
