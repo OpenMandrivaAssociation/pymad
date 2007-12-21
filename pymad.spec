@@ -9,6 +9,7 @@ Release: %{release}
 Source0: http://spacepants.org/src/pymad/download/%{name}-%{version}.tar.bz2
 License: GPL
 Group: Development/Python
+BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: libmad-devel
 BuildRequires: libpython-devel
 Url: http://spacepants.org/src/pymad/
