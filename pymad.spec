@@ -1,12 +1,12 @@
 %define name pymad
-%define version 0.5.4
-%define release %mkrel 6
+%define version 0.6
+%define release %mkrel 1
 
 Summary: A wrapper for the MAD MPEG Audio decoder library
 Name: %{name}
 Version: %{version}
 Release: %{release}
-Source0: http://spacepants.org/src/pymad/download/%{name}-%{version}.tar.bz2
+Source0: http://spacepants.org/src/pymad/download/%{name}-%{version}.tar.gz
 License: GPL
 Group: Development/Python
 BuildRoot: %{_tmppath}/%{name}-buildroot
