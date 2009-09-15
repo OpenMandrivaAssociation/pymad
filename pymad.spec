@@ -1,6 +1,6 @@
 %define name pymad
 %define version 0.6
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary: A wrapper for the MAD MPEG Audio decoder library
 Name: %{name}
