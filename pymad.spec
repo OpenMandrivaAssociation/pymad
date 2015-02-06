@@ -1,7 +1,7 @@
 Summary: A wrapper for the MAD MPEG Audio decoder library
 Name:    pymad
 Version: 0.6
-Release: 5
+Release: 6
 Source0: http://spacepants.org/src/pymad/download/%{name}-%{version}.tar.gz
 License: GPL
 Group: Development/Python
