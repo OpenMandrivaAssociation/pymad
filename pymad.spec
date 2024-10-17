@@ -7,7 +7,7 @@ License: GPL
 Group: Development/Python
 BuildRequires: libmad-devel
 BuildRequires: python-devel
-Url: http://spacepants.org/src/pymad/
+Url: https://spacepants.org/src/pymad/
 
 %description
 pymad is a Python wrapper for the MPEG Audio Decoder library.
